@@ -1,4 +1,4 @@
 all_data.db
-.pptx
-.xlsx
+*.pptx
+*.xlsx
 
