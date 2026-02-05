@@ -1,4 +1,9 @@
 all_data.db
 *.pptx
 *.xlsx
-
+!CLAUDE.md
+*.md
+*.csv
+*.db
+ppt_exports/*
+*.png
